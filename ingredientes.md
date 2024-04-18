@@ -18,7 +18,7 @@
 
 
 <p align="center">
-<img src="images/Ingredientes.jpg" width="350">
+<img src="images/ingredientes.jpg" width="350">
 </p>
 
 ## PREPARACIÓN
@@ -30,6 +30,6 @@
 ### Patrocinadores para acompañar este tipico platillo Mexicano. 
 
 <p align="center">
-<img src="images/Patrocinadores.jpg" width="350">
+<img src="images/patrocinadores.jpg" width="350">
 </p>
 
