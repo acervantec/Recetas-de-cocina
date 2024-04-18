@@ -30,7 +30,7 @@
  2. Los chiles, tomates un diente de ajo y un cuarto de cebolla se deberán colocar dentro de una licuadora para hacer la salsa
  3. Se rebana finamente un cuarto de cebolla
  4. Se guisa agregando los trozos de chicharron y sal al gusto dejando hervir de 3 a 5 minutos.
- 5 Se le agrega una pisca de sal, pimienta molida y una pisca de consomé de pollo en polvo
+ 5. Se le agrega una pisca de sal, pimienta molida y una pisca de consomé de pollo en polvo
  6. Al apagar se agrega el cilantro picado.
 ## PATROCINADORES
 
