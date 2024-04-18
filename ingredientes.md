@@ -5,7 +5,7 @@
 </p>
 
 ## INGREDIENTES  
-<p align="center">
+<div align="center">
 
 | Cantidad       | Ingrediente             |
 |----------------|-------------------------|
@@ -17,7 +17,7 @@
 | 1 1/2 taza     | de agua                 |
 | 4              | dientes de ajo          |        
 
-</p>
+</div>
 
 <p align="center">
 <img src="images/ingredientes.jpg" width="350">
