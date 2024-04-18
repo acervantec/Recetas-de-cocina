@@ -4,6 +4,7 @@
 <p aling= "center">
 <img scrc="C:/Users/rfcardielv/Desktop/GPO01/salsa.png" eidth="350">
 </p>
+
 ## Paso 2
 ### Se rebana finamente un cuarto de cebolla
 ## Paso 3
