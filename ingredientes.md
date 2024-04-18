@@ -5,6 +5,7 @@
 </p>
 
 ## INGREDIENTES  
+<p align="center">
 
 | Cantidad       | Ingrediente             |
 |----------------|-------------------------|
@@ -15,7 +16,7 @@
 | 1/2 taza       | cilantro                |
 | 1 1/2 taza     | de agua                 |
 | 4              | dientes de ajo          |        
-
+</p>
 
 <p align="center">
 <img src="images/ingredientes.jpg" width="350">
@@ -33,7 +34,7 @@
  4. Al apagar se agrega el cilantro picado.
 ## PATROCINADORES
 
-###_Patrocinadores para acompañar este tipico platillo Mexicano._ 
+_Patrocinadores para acompañar este tipico platillo Mexicano._ 
 
 <p align="center">
 <img src="images/patrocinadores.jpg" width="350">
