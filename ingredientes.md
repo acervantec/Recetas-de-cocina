@@ -24,12 +24,12 @@
 ## PREPARACIÓN
 
  ## PASO 1. 
- 1. Cocer en agua la cebolla picada, los tomates, los chiles y los ajos. __ (hasta que estén transparentes) __.
+ 1. Cocer en agua la cebolla picada, los tomates, los chiles y los ajos.  __(hasta que estén transparentes)__.
  ## PASO 2
  2. Se licuan o muelen en molcajete hasta quedar liquida 
- ### PASO 3
+ ## PASO 3
  3. Se guisa agregando los trozos de chicharron y sal al gusto dejando hervir de 3 a 5 minutos.
- ### PASO 4
+ ## PASO 4
  4. Al apagar se agrega el cilantro picado.
 ## PATROCINADORES
 
