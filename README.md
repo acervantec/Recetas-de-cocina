@@ -34,8 +34,9 @@
  6. Al apagar se agrega el cilantro picado.
 
  ### CONSEJO DE LA ABUELA
- > Si el reflujo quieres evitar, debes de añadir una pizca de bicarbonato de sódio. 
-
+ <span style="color:red">
+ > *Si el reflujo quieres evitar, debes de añadir una pizca de bicarbonato de sódio*
+</span>
 ## PATROCINADORES
 
 _Patrocinadores para acompañar este tipico platillo Mexicano._ 
