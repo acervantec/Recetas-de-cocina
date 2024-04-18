@@ -32,6 +32,10 @@
  4. Se guisa agregando los trozos de chicharron y sal al gusto dejando hervir de 3 a 5 minutos.
  5. Se le agrega una pisca de sal, pimienta molida y una pisca de consomé de pollo en polvo
  6. Al apagar se agrega el cilantro picado.
+
+ ### CONSEJO DE LA ABUELA
+ > Si el reflujo quieres evitar, debes de añadir una pizca de bicarbonato de sódio. 
+
 ## PATROCINADORES
 
 _Patrocinadores para acompañar este tipico platillo Mexicano._ 
