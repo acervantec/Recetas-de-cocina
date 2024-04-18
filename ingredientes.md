@@ -23,11 +23,15 @@
 
 ## PREPARACIÓN
 <p align="center">
- ### Se ponen a cocer en agua o bien a asar la cebolla picada, los tomates, los chiles y los ajos, ya que esten transparentes se licuan o muelen en molcajete y ya que quede una salsa se guisa agregando los trozos de chicharron y sal al gusto dejando hervir de 3 a 5 minutos y al apagar se agrega el cilantro picado.
+ ### 
+ 1.-Cocer en agua la cebolla picada, los tomates, los chiles y los ajos. **(hasta que estén transparentes)**.
+ 2.-Se licuan o muelen en molcajete hasta quedar liquida 
+ 3.-Se guisa agregando los trozos de chicharron y sal al gusto dejando hervir de 3 a 5 minutos.
+ 4.-Al apagar se agrega el cilantro picado.
 </p>
 ## PATROCINADORES
 
-### Patrocinadores para acompañar este tipico platillo Mexicano. 
+###_Patrocinadores para acompañar este tipico platillo Mexicano._ 
 
 <p align="center">
 <img src="images/patrocinadores.jpg" width="350">
